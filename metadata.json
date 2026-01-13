@@ -1,0 +1,5 @@
+{
+  "name": "Blogger Patient Portal & CRM",
+  "description": "A comprehensive healthcare portal for Blogger with secure user authentication, private content access, and a specialized patient data entry system integrated with Google Sheets.",
+  "requestFramePermissions": []
+}
